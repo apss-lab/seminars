@@ -2,9 +2,10 @@
 This repo is a collection of our lab's weekly seminars where we present privacy and security papers.
 The following papers are arranged by topic and publication date.
 
-## Machine Learning
+## Secuirty and Machine Learning
 
 #### 2020 
+* Interpretable Deep Learning under Fire [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/zhang_InterpretableDeepLearning_2020.pdf) [[paper]](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-xinyang)
 * The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Miao_audioauditor_2020.pdf)[[paper]](https://arxiv.org/abs/1905.07082)
 
 #### 2017

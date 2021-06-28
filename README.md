@@ -26,6 +26,9 @@ TBA
 ## IoT
 #### 2020 
 * Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Zhu_etualexa_2020.pdf) [[paper]](https://www.ndss-symposium.org/ndss-paper/et-tu-alexa-when-commodity-wifi-devices-turn-into-adversarial-motion-sensors/)
+#### 2019
+* Wi-Motion : A Robust Human Activity Recognition Using WiFi Signals [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Li_wimotion_2019.pdf)
+[[paper]](https://ieeexplore.ieee.org/document/8873550)
 #### 2018
 * Decentralized Action Integrity for Trigger-Action IoT Platforms [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Fernandes_actionintegrity_2018.pdf) [[paper]](https://par.nsf.gov/servlets/purl/10067372#:~:text=We%20introduce%20Decentralized%20Action%20Integrity,set%20of%20trigger%2Daction%20rules.) 
 #### 2017

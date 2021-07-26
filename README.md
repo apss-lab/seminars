@@ -21,6 +21,7 @@ TBA
 
 ## Speech processing
 * Privacy-preserving Voice Analysis via Disentangled Representations [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Fernandes_voicedisantenglement_2020.pdf)[[paper]](https://dl.acm.org/doi/10.1145/3411495.3421355)
+* WaveGuard: Understanding and Mitigating Audio Adversarial Examples [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Hussein_waveguard_2021.pdf)[[paper]](https://www.usenix.org/system/files/sec21fall-hussain.pdf)
 
 
 ## IoT

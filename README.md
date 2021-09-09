@@ -24,7 +24,7 @@ The following papers are arranged by topic and publication date.
 
 #### 2020
 * **Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures**, J Sun, Y Cao, QA Chen, ZM Mao, 29th USENIX Security Symposium.  [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Sun_TowardsRobustLIDAR_2020.pdf) [[paper]](https://www.usenix.org/conference/usenixsecurity20/presentation/sun)
-* **MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps**, P Wu, S Chen, DN Metaxas, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[slides]]((https://github.com/apss-lab/seminars/blob/main/presentations/Wu_MotionNet_2020.pdf) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_MotionNet_Joint_Perception_and_Motion_Prediction_for_Autonomous_Driving_Based_CVPR_2020_paper.pdf)
+* **MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps**, P Wu, S Chen, DN Metaxas, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Wu_MotionNet_2020.pdf) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_MotionNet_Joint_Perception_and_Motion_Prediction_for_Autonomous_Driving_Based_CVPR_2020_paper.pdf)
 
 #### 2019
 * **Adversarial sensor attack on lidar-based perception in autonomous driving**, Cao, Yulong, et al., 2019 ACM SIGSAC conference on computer and communications security. [[slides]](https://github.com/apss-lab/seminars/blob/main/presentations/Cao_AdvSensAtt_2019.pdf) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3339815)
